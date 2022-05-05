@@ -1,4 +1,4 @@
-package com.devpredator.project_spring.desktop;
+package com.devpredator.projectspringdesktop.test;
 
 import static org.junit.Assert.assertTrue;
 
